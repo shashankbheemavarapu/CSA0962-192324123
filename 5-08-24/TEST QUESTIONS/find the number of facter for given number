@@ -1,0 +1,11 @@
+public class SquareAndCube {
+    public static void main(String[] args) {
+        double input = 0.6;
+        double square = input * input;
+        double cube = input * input * input;
+
+        System.out.println("Input: " + input);
+        System.out.println("Square: " + square);
+        System.out.println("Cube: " + cube);
+}
+}
